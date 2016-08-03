@@ -1,0 +1,4 @@
+This program takes in a single argument - the name of a VM machine language program file. 
+The program will set up the VM, read in and execute the program and exit. 
+
+Grade: 2.5
